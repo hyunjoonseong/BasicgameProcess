@@ -55,7 +55,7 @@ void Process()
 	}
 
 
-	for (int i = 0; i < MonsterCount; ++i)
+	for (int i = 0; i < MonsterCount; ++i)S
 	{
 		int Direction = rand() % 4;
 		if (Direction == 0)
